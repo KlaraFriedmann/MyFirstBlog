@@ -1,0 +1,28 @@
+html body {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+#allContent {
+    padding: 0px 10%;
+}
+
+nav h1 {
+    background-color: palevioletred;
+    height: 30px;
+    margin: 0px 0px;
+    padding: 10px 10%;
+}
+
+.post {
+    border: 2px solid palevioletred;
+    margin: 10px 0px;
+    padding: 0px 5px;
+}
+
+#content {
+    width: 100%;
+    height: 100px;
+}
+
+
